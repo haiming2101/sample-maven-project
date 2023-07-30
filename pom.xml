@@ -10,6 +10,7 @@
 
   <name>my-app</name>
   <!-- FIXME change it to the project's website -->
+  <!-- Add this for Jenkins test-->
   <url>http://www.example.com</url>
 
   <properties>
